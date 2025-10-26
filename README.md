@@ -48,7 +48,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----### 📊 Coding Stats
+---
+### 📊 Coding Stats
 
 <p align="center">
   <a href="https://leetcode.com/abid18_03" target="_blank">
@@ -85,7 +86,7 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
+<!--
 ### ⚡ Coding Profiles
 
 | Platform | Profile |
@@ -96,7 +97,7 @@ Here are some ideas to get you started:
 | 🧠 HackerRank | [abid455_md](https://www.hackerrank.com/abid455_md) |
 | 🧩 GeeksforGeeks | [abid18_03](https://auth.geeksforgeeks.org/user/abid18_03) |
 
----
+--->
 
 ### 🌍 Connect with Me
 
