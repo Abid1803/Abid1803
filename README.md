@@ -89,11 +89,6 @@ Here are some ideas to get you started:
 
 ---
 
-
-
-
----
-
 ### ⚡ Coding Profiles
 
 | Platform | Profile |
