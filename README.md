@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Abid1803/Abid1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">HELLO WORLD! 👋</h2>
+<h2 align="center">System.out.println(""Hello World! 👋")</h2>
 
 ### 🧠 About Me
 💡 Hi, I'm **Mohammad Abid**, a Machine Learning enthusiast who loves turning data into intelligent and impactful AI solutions.
