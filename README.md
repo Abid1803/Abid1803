@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">System.out.println(""Hello World! 👋")</h2>
+<h2 align="center">System.out.println(""Hello World! 👋");</h2>
 
 ### 🧠 About Me
 💡 Hi, I'm **Mohammad Abid**, a Machine Learning enthusiast who loves turning data into intelligent and impactful AI solutions.
