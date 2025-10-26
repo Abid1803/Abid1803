@@ -50,38 +50,37 @@ Here are some ideas to get you started:
 
 ---### 📊 Coding Stats
 
----
-
-### 📊 Coding Stats
-
-#### 🧩 LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/abid18_03?theme=dark&font=baloo&ext=contest)](https://leetcode.com/abid18_03)
-
-#### 🍴 CodeChef
 <p align="center">
+  <a href="https://leetcode.com/abid18_03" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-abid18__03-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
   <a href="https://www.codechef.com/users/abid18_03" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-abid18__03-bronze?style=for-the-badge&logo=codechef&logoColor=white&color=BB803F" alt="CodeChef Profile"/>
+    <img src="https://img.shields.io/badge/CodeChef-abid18__03-BB803F?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
+  </a>
+  <a href="https://codeforces.com/profile/abid18_03" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-abid18__03-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/abid18_03/practice/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-abid18__03-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/abid455_md" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-abid455__md-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
 </p>
 
-#### ⚡ Codeforces
+---
+
+#### 🧩 LeetCode Stats
+<p align="center">
+  <a href="https://leetcode.com/abid18_03">
+    <img src="https://leetcard.jacoblin.cool/abid18_03?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+#### ⚡ Codeforces Stats
 <p align="center">
   <a href="https://codeforces.com/profile/abid18_03" target="_blank">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=abid18_03&theme=tokyonight" alt="Codeforces Stats"/>
-  </a>
-</p>
-
-#### 🧠 GeeksforGeeks
-<p align="center">
-  <a href="https://auth.geeksforgeeks.org/user/abid18_03/practice/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-abid18__03-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Profile"/>
-  </a>
-</p>
-
-#### 💻 HackerRank
-<p align="center">
-  <a href="https://www.hackerrank.com/abid455_md" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-abid455__md-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile"/>
   </a>
 </p>
 
