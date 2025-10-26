@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 <h2 align="center">HELLO WORLD! 👋</h2>
 
 ### 🧠 About Me
-Hi, I'm **Mohammad Abid**, an **AI & Data Science Enthusiast** passionate about building intelligent systems using Machine Learning and Deep Learning.  
-I love solving real-world problems with data and developing impactful AI-driven solutions.
+💡 Hi, I'm **Mohammad Abid**, a Machine Learning enthusiast who loves turning data into intelligent and impactful AI solutions.
 
 <br>
 
-📫 Reach me at: [22211a7235@bvrit.ac.in](mailto:22211a7235@bvrit.ac.in)
+📫 Reach me at: [abid455.md@gmail.com](mailto:abid455.md@gmail.com)
 
 <br>
 <p align="left">
@@ -51,11 +50,26 @@ I love solving real-world problems with data and developing impactful AI-driven 
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
+---### 📊 Coding Stats
 
-## 📊 LeetCode Stats
-
+#### 🧩 LeetCode
 [![LeetCode Stats](https://leetcard.jacoblin.cool/abid18_03?theme=dark&font=baloo&ext=contest)](https://leetcode.com/abid18_03)
+
+#### 🍴 CodeChef
+<p align="center">
+  <img src="https://cp-logo.vercel.app/codechef/abid18_03" alt="CodeChef Profile" />
+</p>
+
+#### ⚡ Codeforces
+<p align="center">
+  <img src="https://raw.githubusercontent.com/competitive-verifier/competitive-verifier/master/.github/images/codeforces.svg" width="20"/>  
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=abid18_03&theme=tokyonight" alt="Codeforces Stats"/>
+</p>
+
+#### 🧠 GeeksforGeeks
+<p align="center">
+  <img src="https://gfgstatscard.vercel.app/api?user=abid18_03" alt="GFG Stats"/>
+</p>
 
 ---
 
@@ -74,7 +88,7 @@ I love solving real-world problems with data and developing impactful AI-driven 
 ### 🌍 Connect with Me
 
 <p align="center">
-  <a href="mailto:22211a7235@bvrit.ac.in" target="_blank">
+  <a href="mailto:abid455.md@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
@@ -85,6 +99,15 @@ I love solving real-world problems with data and developing impactful AI-driven 
   <a href="https://github.com/abid18-03" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
+  <a href="https://x.com/Abid_18Mar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  
+  <a href="https://www.instagram.com/abid18_03/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  
 </p>
 
 ---
