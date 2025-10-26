@@ -14,61 +14,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="center">HELLO WORLD! 👋</h2>
 
-<h1 align="center">Hi 👋, I'm Mohammad Abid</h1>
-<h3 align="center">AI and Data Science Enthusiast | Machine Learning Researcher</h3>
+### 🧠 About Me
+Hi, I'm **Mohammad Abid**, an **AI & Data Science Enthusiast** passionate about building intelligent systems using Machine Learning and Deep Learning.  
+I love solving real-world problems with data and developing impactful AI-driven solutions.
 
----
+<br>
 
-### 🌟 About Me
-- 🎓 B.Tech in **Artificial Intelligence and Data Science** (BVRIT Narsapur, 2026)
-- 📊 Passionate about **Machine Learning**, **Deep Learning**, and **Predictive Modeling**
-- 🧩 Skilled in **Python, Java, and SQL**
-- 🤖 Focused on building **AI-driven, real-world impactful projects**
-- 💡 Interested in **Explainable AI**, **Computer Vision**, and **Speech Processing**
+📫 Reach me at: [22211a7235@bvrit.ac.in](mailto:22211a7235@bvrit.ac.in)
 
----
-
-### 💼 Experience
-**Machine Learning Researcher — NIT Andhra Pradesh (Jun 2025 – Aug 2025)**
-- Developed a **Churn Prediction Model** using **XGBoost** with focus on recall improvement.
-- Applied **hyperparameter tuning** and **feature engineering** for better predictive performance.
-- Integrated **SHAP explainability** for model interpretation and business insights.
+<br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abid18-03&style=flat-square&color=blue" alt="visitor count"/>
+</p>
 
 ---
 
-### 🚀 Projects
+### 🛠️ Languages & Tools
 
-#### 🎙️ Deepfake Audio Detection
-- Built a **CNN-LSTM** based system to detect fake vs. real audio.
-- Implemented **SpecAugment**, **pitch shifting**, and **GAN-based data generation** for robustness.
-- Created a complete pipeline for **audio preprocessing → feature extraction → model training → real-time detection**.
-
-#### 🛣️ Pothole Detection System
-- Designed a **hybrid CNN-LSTM model** for road anomaly detection.
-- Integrated **laser and infrared sensors** for depth and lighting adaptation.
-- Enabled **real-time pothole alerts** for better road safety and maintenance.
-
----
-
-### 🏆 Leadership & Achievements
-- 🎯 **Event Coordinator** at *Promethean 2025* (AI&DS Dept.)
-- Managed 5+ technical events ensuring smooth execution and strong participation.
-
----
-
-### 🧰 Skills
-| Category | Skills |
-|-----------|--------|
-| **Programming** | Python, Java, SQL |
-| **AI/ML** | Machine Learning, Deep Learning, Predictive Modeling |
-| **Tools & Libraries** | TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib |
-| **Core Subjects** | Data Structures, DBMS, OS, Computer Networks |
-| **Other** | Competitive Programming, Research Writing |
+<p align="center" style="display:flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/XGBoost-FF8000?style=for-the-badge" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
-### 📊 Coding Profiles
+## 📊 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/abid18_03?theme=dark&font=baloo&ext=contest)](https://leetcode.com/abid18_03)
+
+---
+
+### ⚡ Coding Profiles
 
 | Platform | Profile |
 |-----------|----------|
@@ -80,28 +71,22 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 GitHub Stats
+### 🌍 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abid18-03&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abid18-03&theme=tokyonight" alt="GitHub Streak" />
-</p>
+  <a href="mailto:22211a7235@bvrit.ac.in" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abid18-03&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+  <a href="https://www.linkedin.com/in/abid18_03" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:22211a7235@bvrit.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abid18_03"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/abid18-03"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/abid18-03" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-⭐ *"Turning data into intelligent decisions through AI and innovation."*
-
+⭐ *"Transforming data into intelligent insights through AI and innovation."*
