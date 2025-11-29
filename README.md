@@ -26,5 +26,5 @@ Most of my repositories focus on:
 ## Links
 All profiles, notes, blogs, and resources are available on my portfolio.
 
--I post daily work, updates, and learning logs here:
-**X:** maxEpoch](https://x.com/maxEpoch)  
+I post daily work, updates, and learning logs here:
+**X:** [maxEpoch](https://x.com/maxEpoch)  
