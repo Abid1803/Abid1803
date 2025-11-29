@@ -27,4 +27,4 @@ Most of my repositories focus on:
 All profiles, notes, blogs, and resources are available on my portfolio.
 
 I post daily work, updates, and learning logs here:
-**/X:** [https://twitter.com/your_twitter_username](https://x.com/maxEpoch)  
+-**X:** [https://twitter.com/your_twitter_username](https://x.com/maxEpoch)  
